@@ -1,4 +1,7 @@
 # 基于RK3588芯片的嵌入式AI药材识别系统
+## 演示视频
+由于视频文件大小超出GitHub上传限制，我们已将其上传至Bilibili视频平台，您可以通过以下链接访问： 
+https://www.bilibili.com/video/BV1gRGPzLEA1/?share_source=copy_web&vd_source=3a6421bf6db85c6367e0ceaa4e2d5e0f
 
 ## 📁 项目目录结构
 
